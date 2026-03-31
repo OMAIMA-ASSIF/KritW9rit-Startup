@@ -1,4 +1,4 @@
-# 🌟 KritW9rit (كريتي وقيت) — Plateforme dédiée aux étudiants marocains 🇲🇦
+# 🌟 KritW9rit — Plateforme dédiée aux étudiants marocains 🇲🇦
 
 KritW9rit est une plateforme web moderne conçue pour faciliter la vie des étudiants marocains, en leur offrant un espace unique pour **trouver un logement**, **chercher une colocation**, **découvrir des activités**, et **communiquer facilement** avec d’autres utilisateurs via un système de messagerie intégré.
 
