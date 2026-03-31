@@ -126,11 +126,44 @@ KritW9rit vise à devenir une référence au Maroc pour les étudiants en propos
 - une expérience utilisateur moderne.
 
 ---
+## 🔮 Fonctionnalités à venir (Roadmap)
 
+KritW9rit continue d’évoluer afin d’offrir une expérience encore plus complète aux étudiants marocains.  
+Voici quelques fonctionnalités prévues dans les prochaines versions :
+
+### 🤝 Suggestions de profils étudiants similaires
+Un système intelligent permettra de suggérer des profils d’étudiants ayant des points communs, par exemple :
+- même ville ou même région
+- même université / école
+- même filière ou niveau d’étude
+- mêmes centres d’intérêt
+
+L’objectif est de faciliter la création de connexions entre étudiants et de permettre de les contacter directement via la plateforme.
+
+---
 ## 📌 Statut du projet
 
-🚧 Projet en développement actif (Startup)  
+🚧 Projet en cours de développement   
 📍 Ciblage actuel : **Étudiants marocains**
+
+---
+
+### 🧑‍💼 Espace "Agent Étudiant" (Étudiant pour Étudiant)
+Mise en place d’un espace dédié où certains étudiants pourront jouer le rôle d’**agent local**.
+
+📌 Exemple d’usage :
+Un étudiant cherche un logement mais se trouve loin et ne peut pas vérifier l’annonce sur place.  
+Un autre étudiant (agent) peut se déplacer pour :
+- vérifier si le logement existe réellement
+- confirmer les informations partagées par le propriétaire
+- envoyer des photos/vidéos ou un rapport de visite
+
+💰 En échange, l’agent étudiant pourra être rémunéré pour ce service.
+
+Cette fonctionnalité vise à :
+- réduire les arnaques
+- renforcer la confiance entre utilisateurs
+- encourager l’entraide entre étudiants
 
 ---
 
