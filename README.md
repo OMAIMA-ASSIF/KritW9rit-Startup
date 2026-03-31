@@ -98,106 +98,6 @@ Le projet suit une architecture **Full Stack** divisée en deux parties :
 
 ---
 
-## ⚙️ Backend (Node.js + Express)
-
-Le backend représente le cœur logique du projet :  
-il gère les utilisateurs, les annonces, les messages, les favoris, les notifications et la modération.
-
-### 📌 Structure principale
-
-- `config/` : configuration et connexion base de données
-- `middleware/` : middleware d’authentification JWT
-- `models/` : modèles MongoDB (User, Listings, Messages, etc.)
-- `routes/` : routes API organisées par module
-- `uploads/` : stockage des fichiers (avatars, images annonces)
-- `utils/` : services utilitaires (ex: email)
-
-### 📌 Modèles de données (models)
-
-Le backend contient plusieurs modèles essentiels :
-- `User` : utilisateurs et rôles
-- `HousingListing` : annonces de logements
-- `ColocationListing` : annonces de colocation
-- `ActivityListing` : annonces d’activités
-- `Favorite` : favoris utilisateurs
-- `Message` : messages privés
-- `Notification` : notifications
-- `Review` : avis et évaluations
-- `Report` : signalements
-
----
-
-## 🎨 Frontend (Angular)
-
-Le frontend représente l’interface utilisateur de KritW9rit.  
-Il propose une navigation simple et fluide entre les différentes fonctionnalités.
-
-### 📌 Pages principales
-
-- Authentification : login, register, verify email, reset password
-- Housing : list / detail / form
-- Colocation : list / detail / form
-- Activities : list / detail / form
-- Favorites : annonces sauvegardées
-- Messages : interface de chat
-- Profile : gestion du profil
-- Admin : dashboard complet (users, listings, reports, reviews)
-
-### 📌 Services Angular
-
-Les services permettent la communication avec le backend :
-- `auth.service.ts`
-- `housing.service.ts`
-- `chat.service.ts`
-- `translation.service.ts`
-- `theme.service.ts`
-
-### 📌 Sécurité Frontend
-
-- Guards : `auth.guard`, `guest.guard`, `role.guard`
-- Interceptor : `auth.interceptor` (injection automatique du token JWT)
-
----
-
-## 🔄 Communication Frontend ↔ Backend
-
-Le frontend Angular communique avec le backend via une API REST :
-
-- Authentification (login/register/reset)
-- Consultation et gestion des annonces
-- Ajout aux favoris
-- Messagerie et notifications
-- Gestion du profil
-- Administration et modération
-
----
-
-## 🧩 Modules API disponibles
-
-Le backend expose plusieurs modules structurés :
-
-- `/auth` : inscription, connexion, reset password, verify email
-- `/housing` : annonces logement
-- `/colocation` : annonces colocation
-- `/activity` : annonces activités
-- `/favorite` : favoris
-- `/message` : messagerie
-- `/notification` : notifications
-- `/review` : avis
-- `/report` : signalements
-- `/admin` : routes admin
-- `/profile` : gestion profil
-
----
-
-## 🖼️ Gestion des fichiers uploadés
-
-Les images sont stockées côté serveur dans :
-- `uploads/avatars/` : avatars utilisateurs
-- `uploads/housing/` : images des logements
-
----
-
 ## 🛠️ Technologies utilisées
 
 ### Backend
@@ -245,8 +145,8 @@ Je suis **cofondatrice** du projet **KritW9rit**.
 
 Pour toute collaboration, partenariat ou question :
 
-📧 Email : [your_email]  
-🔗 LinkedIn : [your_linkedin]  
-🌐 Website : [your_website_if_exists]
+📧 Email : omaima.assif-etu@etu.univh2c.ma 
+🔗 LinkedIn : https://www.linkedin.com/in/omaima-assif-093549295/ 
+🌐 Website : https://assif-alpha.vercel.app/
 
 ---
