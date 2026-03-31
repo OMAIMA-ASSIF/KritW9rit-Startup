@@ -146,7 +146,9 @@ Je suis **cofondatrice** du projet **KritW9rit**.
 Pour toute collaboration, partenariat ou question :
 
 📧 Email : omaima.assif-etu@etu.univh2c.ma 
+
 🔗 LinkedIn : https://www.linkedin.com/in/omaima-assif-093549295/ 
+
 🌐 Website : https://assif-alpha.vercel.app/
 
 ---
