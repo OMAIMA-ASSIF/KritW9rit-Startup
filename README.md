@@ -26,7 +26,7 @@ De nombreux étudiants rencontrent des difficultés pour :
 - Publication d’annonces de colocation
 - Publication d’annonces d’activités
 - Consultation des annonces (liste + détails)
-- Formulaires dédiés pour créer/modifier une annonce
+- Formulaires dédiés pour créer/modifier une annonce.
 
 ---
 
