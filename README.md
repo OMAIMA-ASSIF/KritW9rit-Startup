@@ -140,8 +140,6 @@ Un système intelligent permettra de suggérer des profils d’étudiants ayant 
 
 L’objectif est de faciliter la création de connexions entre étudiants et de permettre de les contacter directement via la plateforme.
 
----
-
 ### 🧑‍💼 Espace "Agent Étudiant" (Étudiant pour Étudiant)
 Mise en place d’un espace dédié où certains étudiants pourront jouer le rôle d’**agent local**.
 
