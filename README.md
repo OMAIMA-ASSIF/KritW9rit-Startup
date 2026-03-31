@@ -85,7 +85,7 @@ Le projet intègre plusieurs mécanismes pour garantir la sécurité :
 - Authentification via **JWT**
 - Protection des routes sensibles via middleware
 - Guards Angular côté frontend (auth, guest, role)
-- Gestion des rôles (**User / Admin**)
+- Gestion des rôles (**User / Admin** / Owner**)
 
 ---
 
