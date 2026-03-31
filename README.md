@@ -141,12 +141,6 @@ Un système intelligent permettra de suggérer des profils d’étudiants ayant 
 L’objectif est de faciliter la création de connexions entre étudiants et de permettre de les contacter directement via la plateforme.
 
 ---
-## 📌 Statut du projet
-
-🚧 Projet en cours de développement   
-📍 Ciblage actuel : **Étudiants marocains**
-
----
 
 ### 🧑‍💼 Espace "Agent Étudiant" (Étudiant pour Étudiant)
 Mise en place d’un espace dédié où certains étudiants pourront jouer le rôle d’**agent local**.
@@ -166,7 +160,12 @@ Cette fonctionnalité vise à :
 - encourager l’entraide entre étudiants
 
 ---
+## 📌 Statut du projet
 
+🚧 Projet en cours de développement   
+📍 Ciblage actuel : **Étudiants marocains**
+
+---
 ## 👩‍💻 Équipe
 
 Ce projet est développé dans le cadre d’une startup.  
